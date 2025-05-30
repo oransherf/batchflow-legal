@@ -1,21 +1,27 @@
-# BatchFlow Legal Documents
+# BatchFlow Documentation
 
-This repository contains the official legal documents for the **BatchFlow** application on the monday.com platform.
+This repository contains the official documentation for the **BatchFlow** application on the [monday.com](https://monday.com) marketplace.
 
-## 📄 Documents
+## 📚 Contents
+
+- [How to Use](./docs/how-to-use.md)  
+  Learn how to install, configure, and get the most out of BatchFlow.
+
+- [Pricing](./docs/pricing.md)  
+  Details about BatchFlow's pricing model.
 
 - [Privacy Policy](./docs/privacy-policy.md)  
   Describes how BatchFlow handles user data. Spoiler: we don't collect personal data.
 
 - [Terms of Service](./docs/terms-of-service.md)  
-  Outlines the rules and responsibilities for using the BatchFlow app.
+  Legal agreement outlining usage rules for BatchFlow.
 
 ## 🧾 About BatchFlow
 
-**BatchFlow** is a monday.com application that helps users efficiently schedule and batch-process updates across their boards using customizable logic.  
-The app runs entirely within your monday.com environment.
+**BatchFlow** helps monday.com users automate the bulk movement or archiving of items using custom scheduling logic.  
+It’s designed to improve workflow efficiency and reduce unnecessary automation usage — all within your monday.com workspace.
 
 ## 📬 Contact
 
-For any legal or support inquiries, please contact:  
+For support or legal inquiries, contact:  
 **oransherf.dev@gmail.com**
